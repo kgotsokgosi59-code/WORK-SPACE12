@@ -1,0 +1,16 @@
+{
+  "name": "Jiks Academy",
+  "short_name": "Jiks",
+  "description": "A creative house in Daveyton, East Rand. Home of East Rand Academy and Daveyton Stance Society.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#04060e",
+  "background_color": "#04060e",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
